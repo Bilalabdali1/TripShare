@@ -10,10 +10,10 @@ TripShare is an innovative Android application that revolutionizes the way trave
 - **Plan Sharing:** Share your travel itinerary with friends or the TripShare community.
 - **Collaborative Itineraries:** Work together with others to craft the perfect travel plan.
 - **Maps Integration:** Use maps to explore and share key locations and hidden gems.
-
+-**Firebase Integration:** User data and posts are securely stored and managed with Firebase, ensuring a seamless and reliable experience. Firebase provides robust data storage, allowing users to save their travel plans, posts, and interactions within the app.
 ## Installation
 Install TripShare by following these simple steps:
-1. Clone the repository: `git clone https://github.com/yourusername/tripshare.git`
+1. Clone the repository: `git clone https://github.com/Bilalabdali1/TripShare.git`
 2. Open the project in Android Studio.
 3. Build and run the application on your Android device or emulator.
 
@@ -23,5 +23,7 @@ Once TripShare is installed, sign up to start exploring. Connect with fellow tra
 ## App Preview
 ### Home
 ![rsz_1rsz_1screenshot_2024-01-08_141659](https://github.com/Bilalabdali1/TripShare/assets/73677648/98f27b9a-9897-442d-a543-df8eec50c051)
-### App Preview
-### App Preview
+### Post Details
+![rsz_1rsz_1screenshot_2024-01-08_142358](https://github.com/Bilalabdali1/TripShare/assets/73677648/b01723cf-6e58-47e5-a329-eeec857d50e0)
+### Adding Post
+![rsz_1rsz_screenshot_2024-01-08_142841](https://github.com/Bilalabdali1/TripShare/assets/73677648/9ca987f4-bbd5-4a02-9953-d8f69da9ecda)
