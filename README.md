@@ -21,6 +21,7 @@ Install TripShare by following these simple steps:
 Once TripShare is installed, sign up to start exploring. Connect with fellow travelers, share your plans, and discover a world of travel opportunities. Plan your journey, share your experiences, and join the global network of adventurers.
 
 ## App Preview
-### App Preview
+### Home
+![rsz_1rsz_1screenshot_2024-01-08_141659](https://github.com/Bilalabdali1/TripShare/assets/73677648/98f27b9a-9897-442d-a543-df8eec50c051)
 ### App Preview
 ### App Preview
